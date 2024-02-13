@@ -1,0 +1,5 @@
+radarr/data/*
+radarr/downloadclient-downloads/*
+radarr/movies/*
+
+!**/.gitkeep
